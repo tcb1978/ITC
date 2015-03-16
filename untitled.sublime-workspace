@@ -1,0 +1,261 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"repeat",
+				"no-repeat"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"bo",
+				"border"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mattheweldredge/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/mattheweldredge/Projects/MusicMiner/source/app/html/custom/custom.css",
+		"/Users/mattheweldredge/Projects/MusicMiner/source/app/controls/image_ctrl.php",
+		"/Users/mattheweldredge/Projects/MusicMiner/source/config/config.php.develop",
+		"/Users/mattheweldredge/Documents/logIn.txt",
+		"/private/var/folders/p7/l1z0czy57dx3frl24qy74nqc0000gn/T/fz3temp-1/TEMPLATE 2.HTM",
+		"/private/var/folders/p7/l1z0czy57dx3frl24qy74nqc0000gn/T/fz3temp-1/TEMPLATE.HTM",
+		"/private/var/folders/p7/l1z0czy57dx3frl24qy74nqc0000gn/T/fz3temp-1/HTEMPLATE.HTM"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"div.view-project div.foot",
+			"text-align: inherit; ",
+			" text-align: inherit; ",
+			"span.btn-play",
+			"span.btn-play:hover {\nbackground-position: -17px 0px;\n}",
+			"-17px",
+			"background-position",
+			"background position",
+			"span.btn-play:hover",
+			"-17px 0px;",
+			"span.btn-play:hover {\nbackground-position: -17px 0px;",
+			"15",
+			"height:15px;",
+			"width:15px;",
+			"span.btn-add:hover",
+			"span.btn-download:hover, span.btn-download-alert",
+			"span.btn-download:hover, span.btn-download-alert:hover",
+			"1px",
+			"10px",
+			"3px",
+			"rgba(0,0,0,0.75)",
+			"span.btn-cart-special, span.btn-cart-ecomm:hover",
+			"div.ply_player",
+			"/img/trackbtns_sprite.png",
+			"sm_waveform",
+			"waveform",
+			"div#view-content div.head div.src",
+			"show",
+			"btn-projec",
+			"project-butt",
+			"div#search > div",
+			".project-show #btn-project",
+			"div#btn-topics-display",
+			"#btn",
+			"#btn-topics",
+			"#btn-topics-display",
+			"#btn-topics-",
+			"#btn-topics-display.hide",
+			"div#btn-home span",
+			"div#btn-topics-display",
+			"linear-gradient(#343434, #121212);",
+			"linear-gradient(#121212, #343434);",
+			"#btn-vista-albums span",
+			"margin: 3px 3px 0 3px;\n    height: 22px;\n    width: 26px;",
+			"{}",
+			"2px",
+			"musicminer",
+			"Please Read This",
+			"boxwrap",
+			".pagebot ",
+			"quote_flow_new_v3",
+			"import urllib2,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"linear-gradient(#4e4e4e, #222222);"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.955752212389,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"image_",
+				"source/app/controls/image_ctrl.php"
+			],
+			[
+				"deve",
+				"source/config/config.php.develop"
+			],
+			[
+				"devel",
+				"source/config/config.php.develop"
+			],
+			[
+				"",
+				"/Users/mattheweldredge/Desktop/mattbackup/Package Control.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/mattheweldredge/Projects/MusicMiner/MusicMiner.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true
+}
