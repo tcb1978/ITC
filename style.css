@@ -96,10 +96,26 @@ body#body_container_wrap {
     height: 3895px;
 }
 
-body {
-    background: #ebebeb;
+html.no-js {
+background: red;
 }
 
 body, html{
     font-family: 'Quicksand_Dash';
 }
+
+
+/*	HEADER   */
+
+
+
+
+
+
+
+
+
+
+
+
+
